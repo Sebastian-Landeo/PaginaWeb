@@ -1,7 +1,16 @@
 h1{
-    color: black;
+    color: #e63946;
+    text-align: center;
 }
 p{
-    color:brown;
-    /*background-color: crimson;*/
+    color:white;
+    background-color: #219ebc;
+    padding: 15px;
+    border:  10px solid #1d3557;
+    /* margin-top: 40px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px; */
+    margin: auto 50px;
+    text-align: center;
 }
