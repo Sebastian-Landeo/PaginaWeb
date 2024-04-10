@@ -3,6 +3,11 @@
     margin:0;
     padding: 0;
 }
+#titulo_principal{
+    color:#f72585;
+    text-align: center;
+    margin: 15px;
+}
 h1{
     color:#f72585;
     text-align: center;
@@ -30,5 +35,5 @@ p{
 }
 
 .titulo{
-    color: #3f37c9;
+    color: #f72585; 
 }
